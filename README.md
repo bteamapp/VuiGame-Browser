@@ -1,2 +1,3 @@
 # VuiGame-Browser
-Trình duyệt Web VuiGame trong Chrome Extension
+### Trình duyệt của VuiGame
+Trình duyệt Web VuiGame: https://vuivideogames.blogspot.com/
