@@ -129,12 +129,17 @@ input[type=text] {
 <div class="container">
   <div class="row">
     <div class="column left">
-      <span class="dot" style="background:#ED594A;"></span>
-      <span class="dot" style="background:#FDD800;"></span>
+      <a href="javascript:close_window();"><span class="dot" style="background:#ED594A;"></span></a>
+      <a href="#" ><span class="dot" style="background:#FDD800;"></span></a>
       <span class="dot" style="background:#5AC05A;"></span>
     </div>
     <div class="column middle">
-      <input type="text" value="VuiGame">
+    
+    <!-- Load Icon and Name-->
+      <img src="https://raw.githubusercontent.com/junghaha/VuiGame-Browser/main/img/loading.gif" height="20px" />
+      
+     Processing request: VuiGame
+      
     </div>
     <div class="column right">
       <div style="float:right">
@@ -161,11 +166,12 @@ input[type=text] {
 
 <div id="1-2" class="tabcontent">
   <h3>Thông tin</h3>
-  <p>Trình duyệt VuiGame phiên bản 1.0.1 thuộc bTeam</p>
+  <p>Trình duyệt VuiGame phiên bản 1.0.1 thuộc bTeam</p><br>
+  <p>Nút màu sắc có các chức năng</p>
 </div>
 
   <div class="content">
-<iframe src="https://vuivideogames.blogspot.com/" style="overflow:hidden;height:500;width:100%" width="100%" height="600"></iframe>
+<iframe src="https://vuivideogames.blogspot.com/" style="overflow:hidden;height:500;width:100%" width="100%" height="600" frameborder="0" ></iframe>
   </div>
 </div>
 
@@ -186,6 +192,8 @@ function openCity(evt, cityName) {
   evt.currentTarget.className += " active";
 }
 </script>
+
+<script src="resources/flash/legato.js"></script>
 
 </body>
 </html> 
