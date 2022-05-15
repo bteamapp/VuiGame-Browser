@@ -1,0 +1,19 @@
+<h4>Với trình cài đặt EXE này, chúng tôi sẽ bắt đầu cài đặt ứng dụng này cho bạn!</h4>
+
+Trình cài đặt sẽ xả nén vào thư mục bạn đã chọn, sau đó sẽ tạo một phím tắt trên Màn hình chính cho bạn! Vui lòng làm theo các hướng dẫn trên màn hình
+
+<br><br>
+<h3>Về VuiGame</h3>
+
+Đây là một dịch vụ chơi Game mới của VuiGame by VDJGO! Việt Nam hợp tác cùng bTeam!
+
+<img src="https://vuivideogames.blogspot.com/favicon.ico" alt="Logo" />
+
+
+<h3>Trình cài đặt có gì?</h3>
+- Trình duyệt<br>
+- Module cho Windows API<br>
+- SFX<br>
+- Tài nguyên người dùng (trình duyệt, drivers chính hãng)
+
+<br><br>Dự kiến cài đặt trong 10 phút
